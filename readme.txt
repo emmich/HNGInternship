@@ -1,1 +1,1 @@
-My Internship process with HNG 
+My Frontend development internship process with HNG 
